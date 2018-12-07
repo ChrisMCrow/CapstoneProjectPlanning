@@ -40,6 +40,10 @@ Share what you’re watching on TV with friends
 
 * A movie API TBD
 
+
+### Wire Frame
+![Home Page ('/')](./readme-img/root.png)
+
 ### References
 https://reactjs.org/docs/thinking-in-react.html
 <!-- ### Specs
