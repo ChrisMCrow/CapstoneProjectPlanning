@@ -44,7 +44,9 @@ Share what you’re watching on TV with friends
 ### Wire Frame
 ![Landing Page ('/')](./readme-img/root.png)
 ![User Home Page ('/home')](./readme-img/home.png)
-![User Friends Page ('/home')](./readme-img/friends.png)
+![User Friends Page ('/friends')](./readme-img/friends.png)
+![User Shows Page ('/shows')](./readme-img/shows.png)
+
 
 ### References
 https://reactjs.org/docs/thinking-in-react.html
