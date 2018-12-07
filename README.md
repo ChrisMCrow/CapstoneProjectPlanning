@@ -41,11 +41,14 @@ Share what you’re watching on TV with friends
 * A movie API TBD
 
 
-### Wire Frame
+### Wireframes
 ![Landing Page ('/')](./readme-img/root.png)
 ![User Home Page ('/home')](./readme-img/home.png)
 ![User Friends Page ('/friends')](./readme-img/friends.png)
 ![User Shows Page ('/shows')](./readme-img/shows.png)
+
+### Component Tree
+![Component Tree](./readme-img/component-tree.png)
 
 
 ### References
