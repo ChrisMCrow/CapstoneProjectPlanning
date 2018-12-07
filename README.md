@@ -42,7 +42,8 @@ Share what you’re watching on TV with friends
 
 
 ### Wire Frame
-![Home Page ('/')](./readme-img/root.png)
+![Landing Page ('/')](./readme-img/root.png)
+![User Home Page ('/home')](./readme-img/home.png)
 
 ### References
 https://reactjs.org/docs/thinking-in-react.html
