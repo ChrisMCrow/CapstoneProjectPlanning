@@ -1,29 +1,28 @@
 import React from 'react';
-//import PropTypes from 'prop-types';
 import { Switch, Route } from 'react-router-dom';
+import Navbar from './Navbar';
+import SignIn from './SignIn';
+import Home from './Home';
+import Friends from './Friends';
+import Shows from './Shows';
 
-/*
-  import { Link } from 'react-router-dom';
-  <Link to="/">Home</Link> | <Link to="/newticket">Create Ticket</Link>
-*/
-
-function App(){
-  var styles = {
-  };
+function App() {
   return (
-    <div style={styles}>
-      <style jsx>{`
-        font-family: Helvetica;
+    <div>
+      <style global jsx>{`
+        color: 
+        background-color: black;
+
       `}</style>
-      CapstoneProjectPlanning
-      {/* <Switch>
-        <Route exact path='/' component={} />
-      </Switch> */}
+      <Navbar/>
+      <Switch>
+        <Route exact path='/' component={SignIn} />
+        <Route path='/home' component={Home} />
+        <Route path='/friends' component={Friends} />
+        <Route path='/shows' component={Shows} />
+      </Switch>
     </div>
   );
 }
-
-//App.propTypes = {
-//};
 
 export default App;
