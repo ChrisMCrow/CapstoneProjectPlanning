@@ -40,6 +40,8 @@ Share what you’re watching on TV with friends
 
 * A movie API TBD
 
+### References
+https://reactjs.org/docs/thinking-in-react.html
 <!-- ### Specs
 | # | Spec | Input | Output |
 | :-------------     | :-------------     | :------------- | :------------- |
