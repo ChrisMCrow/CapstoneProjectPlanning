@@ -5,6 +5,7 @@ import ShowComponent from './ShowComponent';
 function ShowList(props) {
   return(
     <div>
+      <p>Show List Component</p>
       {Object.keys(props.shows).forEach((show) =>
         <ShowComponent show={show}/>
       )}
@@ -12,7 +13,7 @@ function ShowList(props) {
   );
 }
 
-ShowList.PropTypes = {
+ShowList.propTypes = {
   shows: PropTypes.object
 }
 
