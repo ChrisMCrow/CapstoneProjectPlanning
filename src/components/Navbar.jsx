@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 let tempProps = {
   userName: 'Chris Crow'
-}
+};
 
 function Navbar() {
   return(
