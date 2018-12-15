@@ -8,6 +8,8 @@
 
 #### Name of Project: Turvy
 
+#### [Link to Project's Repo](https://github.com/ChrisMCrow/capstone-project)
+
 #### Project’s Purpose or Goal: (What will it do for users?) 
 
 Share what you’re watching on TV with friends  
